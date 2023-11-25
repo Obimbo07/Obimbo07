@@ -1,5 +1,5 @@
 
-![Green Modern Interior Designer Linkedin Banner](https://github.com/Obimbo07/Obimbo07/assets/118368849/f92aba25-6c70-45e7-9eef-edc0b9ff1d89)
+![Green Modern Interior Designer Linkedin Banner](https://github.com/Obimbo07/Obimbo07/assets/118368849/1f9f9eef-bb7a-4436-913a-d4552ca88f91)
 
 
 <h2>My name's Austin Obimbo<img src="https://media1.giphy.com/media/5iV4Op6eJsjBDxIXPi/giphy.gif?cid=ecf05e47lswqwjyzct9mf3263wa7ki9u5i36nggdz84rqrmb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"> </h2>
