@@ -6,7 +6,7 @@
 <img align='right' src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="230" style="border-radius: 100px;">
 <p><em>Full-stack Software Engineer with love to share</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-- Twitter: [@Austine](https://twitter.com/austsine_)
+- WellFound: [@Austine](https://wellfound.com/u/austin-obimbo)
 - LinkedIn: [Austin obimbo](https://www.linkedin.com/in/austin-obimbo-9a613623a/)
 
 
@@ -24,17 +24,11 @@ const Obimbo = {
   'I am ready to take any offer on software development']
 }
 ```
-### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-<!--START_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obimbo07&show_icons=true&theme=theme_name) 
 
-```txt
-JavaScript   28 hrs 19 mins  ██████████████████░░░░░░░   71.88 %
-API          8 hr 52 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Python       4 hr  36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obimbo07&layout=compact&show_icons=true)
 
-<!--END_SECTION:waka-->
 <!--
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
