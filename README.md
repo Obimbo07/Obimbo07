@@ -27,7 +27,7 @@ const Obimbo = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obimbo07&show_icons=true&theme=theme_name) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obimbo07&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obimbo07&layout=compact&show_icons=true)
 
 <!--
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
