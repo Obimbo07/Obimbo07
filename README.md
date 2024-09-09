@@ -39,4 +39,4 @@ const Obimbo = {
 - [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
 <!-- BLOG-POST-LIST:END -->
 
-<p>You can check out my portfolio <a href="https://obimbo07.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://austin-obimbo.onrender.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
