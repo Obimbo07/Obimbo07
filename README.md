@@ -5,7 +5,7 @@
 
 <h2>My name's Austin Obimbo<img src="https://media1.giphy.com/media/5iV4Op6eJsjBDxIXPi/giphy.gif?cid=ecf05e47lswqwjyzct9mf3263wa7ki9u5i36nggdz84rqrmb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"> </h2>
 <img align='right' src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="230" style="border-radius: 100px;">
-<p><em>Full-stack Software Engineer with love to share</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Software Engineer with love to share</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 - WellFound: [@Austine](https://wellfound.com/u/austin-obimbo)
 - LinkedIn: [Austin obimbo](https://www.linkedin.com/in/austin-obimbo-9a613623a/)
@@ -13,14 +13,13 @@
 
 ### <img src="https://thumbs.gfycat.com/SkinnyNauticalGyrfalcon-size_restricted.gif" width="50"> A little more about me...  
 
-```javascript
+```ruby
 const Obimbo = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["him", "his"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS/SCSS,
-   UI/Ux, Bootstrap, Python with AI and  Data Science],
-  askMeAbout: [Ai trends, Travelling, Crypto trading, Marketing],
-  challenge: "I am fine tuning my ES6 javascript and advancing my Ai skills with python",
+  code: [JavaScript, Ruby, Python with AI and  Data Science, Ui/Ux, Data operations and analysis],
+  askMeAbout: [Ai trends, Travelling, Cryptocurrency, Marketing, Robotics],
+  challenge: "Advancing my Ai skills and training LLms, Understanding robotics and  developing Web3 powered applications.",
   funFacts: ['I am a professional data operations analysts',  'A Novice Crypto trader', 
   'I am ready to take any offer on software development']
 }
