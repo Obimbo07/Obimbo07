@@ -1,14 +1,7 @@
 
-![1](https://github.com/Obimbo07/Obimbo07/assets/118368849/9b7c88b4-eca5-4fa3-b0ca-792bf9948e8a)
-
-
-
 <h2>My name's Austin Obimbo<img src="https://media1.giphy.com/media/5iV4Op6eJsjBDxIXPi/giphy.gif?cid=ecf05e47lswqwjyzct9mf3263wa7ki9u5i36nggdz84rqrmb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"> </h2>
 <img align='right' src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="230" style="border-radius: 100px;">
 <p><em>Software Engineer with love to share</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
-
-- WellFound: [@Austine](https://wellfound.com/u/austin-obimbo)
-- LinkedIn: [Austin obimbo](https://www.linkedin.com/in/austin-obimbo-9a613623a/)
 
 
 ### <img src="https://thumbs.gfycat.com/SkinnyNauticalGyrfalcon-size_restricted.gif" width="50"> A little more about me...  
