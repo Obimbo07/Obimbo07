@@ -26,35 +26,6 @@ I enjoy turning ideas into production-ready solutions using modern technologies 
 
 ---
 
-# 🛠️ Tech Stack
-
-## Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next JS](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
-
-## Backend
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)
-![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-000?&logo=rubyonrails)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
-## AI & Data
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
-
-## Cloud & DevOps
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-
----
-
 # 🧠 Current Focus
 
 ```ts
@@ -81,19 +52,7 @@ const Austin = {
 };
 ```
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obimbo07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obimbo07&layout=compact&theme=tokyonight" />
-</p>
-
----
+ 
 
 # 🌐 Connect With Me
 
